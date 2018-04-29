@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2AF2DB",
+    "servers": [
+      {
+        "server_address": "brazil.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": -3,97289836,
+    "ref_longitude": -38,53266869,
+    "ref_altitude": 10,
+    "contact_email": "contact@whatever.com",
+    "description": "My-RAK831"
+  }
+}
